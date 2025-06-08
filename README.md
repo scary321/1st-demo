@@ -1,4 +1,4 @@
 # 1st-demo
 first repsitory
 <br>
-author-Priyanshu Rathore
+author-Priyanshu (scary)
